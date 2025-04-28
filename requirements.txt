@@ -1,0 +1,9 @@
+requests
+google-api-python-client
+geopy
+pandas
+joblib
+google
+matplotlib
+seaborn
+numpy
