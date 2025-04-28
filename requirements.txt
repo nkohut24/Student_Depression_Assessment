@@ -3,7 +3,8 @@ google-api-python-client
 geopy
 pandas
 joblib
-google-genai
+google
 matplotlib
 seaborn
 numpy
+scikit-learn
